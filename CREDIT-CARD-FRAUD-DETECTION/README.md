@@ -1,6 +1,13 @@
 # Credit-Card-Fraud-Detection-CodSoft-Task5
-Here is Task 5: Credit card fraud detection using machine learning, for my data science internship with Codsoft
-The dataset file link is attached so you can access it from there
-In this model I first had to stabilize the dataset with the help of sampling due to imablance of features and target variables
-platform used: jupyter lab
-programming language : pyhton
+Build a machine learning model to identify fraudulent credit card
+transactions.
+Preprocess and normalize the transaction data, handle class
+imbalance issues, and split the dataset into training and testing sets.
+Train a classification algorithm, such as logistic regression or random
+forests, to classify transactions as fraudulent or genuine.
+Evaluate the model'
+
+s performance using metrics like precision, recall,
+
+and F1-score, and consider techniques like oversampling or
+undersampling for improving results.
