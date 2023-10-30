@@ -1,1 +1,1 @@
-# Movie_Rating_Prediction_With_Python_Task2_CodSoft
+# Movie-Rating-Prediction-With-Python-CodSoft-Task2
